@@ -1,0 +1,29 @@
+﻿3.3 03/22/2021
+Added notes field to passwords that is encrypted, Enhancement
+
+3.2.1 06/23/2020
+Fixed style issue on edit password, BugFix
+
+3.2, 03/18/2020
+New password Style fix, BugFix, When adding new passwords the style was not respected properly
+
+3.0, 11/03/2019
+Metro Framework conversion, Unspecified, Forms have been converted to MetroForms, Windows will now slide over the main panel and slide out when done., Thumbnail Style temporarly disabled since it needs conversion.
+New change log, Unspecified
+Update will now be done via Github, Unspecified
+Style and Theme support, Unspecified, Can now change at any point the style and them of the application, the app will rememember last choices selected
+
+2.6, 01/01/1000
+Groups are now sorted, Enhancement
+Will now add password the same list type that is currently selected, Unspecified
+Improved Opening speed, Unspecified
+Updated Icon in program and features, Unspecified
+
+2.3, 17/10/2016
+Thumbnails feature, Enhancement, Can now display list as thumbnails or as a list
+
+2.0.8, 31/01/2016
+First released version, Unspecified
+
+1.0, 01/01/2016, Secret Box
+Project Start, Unspecified
